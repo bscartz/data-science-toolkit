@@ -1,7 +1,7 @@
 # statistics-toolkit
 Summary of several statistical models learned in MSBA-SA
 
-#### K-Means Clustering
+## K-Means Clustering
 Class Workbook:
 Basic Description: 
 Usage:
