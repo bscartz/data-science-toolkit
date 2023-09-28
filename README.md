@@ -1,6 +1,12 @@
 # statistics-toolkit
 Summary of several statistical models learned in MSBA-SA
 
+## XGBoost
+Class Workbook:
+Basic Description: 
+Usage:
+Possible Use Cases:
+
 ## K-Means Clustering
 Class Workbook:
 Basic Description: 
