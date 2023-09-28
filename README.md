@@ -1,19 +1,13 @@
 # statistics-toolkit
 Summary of several statistical models learned in MSBA-SA
 
-## Linear Regression
+#### K-Means Clustering
 Class Workbook:
 Basic Description: 
 Usage:
 Possible Use Cases:
 
-## Logistic Regression
-Class Workbook:
-Basic Description: 
-Usage:
-Possible Use Cases:
-
-## LASSO Regression
+## Hierarchical Clustering
 Class Workbook:
 Basic Description: 
 Usage:
@@ -37,13 +31,28 @@ Basic Description:
 Usage:
 Possible Use Cases:
 
-## Hierarchical Clustering
+## LASSO Regression
 Class Workbook:
 Basic Description: 
 Usage:
 Possible Use Cases:
 
-#### K-Means Clustering
+## Logistic Regression
+Class Workbook:
+Basic Description: 
+Usage:
+Possible Use Cases:
+
+## Linear Regression
+Class Workbook:
+Basic Description: 
+Usage:
+Possible Use Cases:
+
+
+
+
+
 
 
 
