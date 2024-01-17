@@ -44,10 +44,24 @@ Usage:
 Possible Use Cases:
 
 ## Logistic Regression
-Class Workbook:
-Basic Description: 
-Usage:
-Possible Use Cases:
+Class Workbook: <br/ >
+
+Basic Description: <br/ >
+Logistic regression models the relationship between one or more independent explanatory variables and a dependent binary classification. <br/ ><br/ >
+
+
+Usage: <br/ >
+This model can be used whenever the response variable is a binary, such as 0/1 or yes/no. It can also be used to predict probability. <br/ ><br/ >
+
+
+Possible Baseball Applications:
+* Predicting whether a team will win a game based on relevant statistics
+* Predicting whether a baserunner will steal based on the situation.
+
+
+Possible Business Applications:
+* Predicting whether a customer will continue or cancel his subscription based on usage patterns
+* Estimating the risk probability that a person or business will default on a loan.
 
 ## Linear Regression
 
