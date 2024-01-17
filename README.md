@@ -50,10 +50,15 @@ Usage:
 Possible Use Cases:
 
 ## Linear Regression
-Class Workbook:
+Class Workbook: 
+https://rpubs.com/bscartz/linear-regression
 Basic Description: 
-Usage:
-Possible Use Cases:
+Linear regression models the relationship between a dependent response variable and one or more independent explanatory variables. It fits a linear equation to the data. 
+Usage: 
+This model can be used whenever observed variables have a linear relationship with the outcome variable. 
+Possible Use Cases: 
+* Predicting statistics based on other statistics when they are reasonably correlated. 
+* Assess the predictive performance of machine learning models.
 
 
 
