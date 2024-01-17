@@ -50,19 +50,28 @@ Usage:
 Possible Use Cases:
 
 ## Linear Regression
+
 Class Workbook: <br />
 https://rpubs.com/bscartz/linear-regression <br /><br />
+
+
 Basic Description: <br />
 Linear regression models the relationship between a dependent response variable and one or more independent explanatory variables. It fits a linear equation to the data. <br /><br />
+
+
 Usage: <br />
 This model can be used whenever observed variables have a linear relationship with the outcome variable. <br /><br />
-Possible Baseball Use Cases: <br />
+
+
+Possible Baseball Applications: 
 * Predicting statistics based on other statistics when they are reasonably correlated.
   * Predict stolen bases based on top sprint speed.
 * Assess the predictive performance of machine learning models.
-  * Compare an xwOBA model to actual wOBA production. Does the xwOBA model over / undervalue any particular type of offensive production (power, speed, etc)<br /><br />
-  Possible Business Use Cases: <br />
-  * Predict sales volume based on price
+  * Compare an xwOBA model to actual wOBA production. Does the xwOBA model over / undervalue any particular type of offensive production (power, speed, etc).
+
+
+Possible Business Applications:
+* Predict sales volume based on price
 
 
 
