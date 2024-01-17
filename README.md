@@ -50,8 +50,8 @@ Usage:
 Possible Use Cases:
 
 ## Linear Regression
-Class Workbook: 
-https://rpubs.com/bscartz/linear-regression
+Class Workbook: <br />
+https://rpubs.com/bscartz/linear-regression <br />
 Basic Description: 
 Linear regression models the relationship between a dependent response variable and one or more independent explanatory variables. It fits a linear equation to the data. 
 Usage: 
