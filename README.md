@@ -66,7 +66,8 @@ Possible Business Applications:
 ## Linear Regression
 
 Class Workbook: <br />
-https://rpubs.com/bscartz/linear-regression <br /><br />
+[https://rpubs.com/bscartz/linear-regression](https://rpubs.com/bscartz/linear-regression-toolkit) <br />
+Included: log transform, interaction terms <br /><br />
 
 
 Basic Description: <br />
