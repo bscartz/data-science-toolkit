@@ -8,14 +8,14 @@ Usage:
 Possible Use Cases:
 
 ## K-Means Clustering
-Class Workbook:
-Basic Description: <br/ >
+Class Workbook: <br/>
+Basic Description: <br/><br/>
 
-Basic Description: K-Means Clustering is an unsupervised machine learning algorithm used for partitioning data into clusters based on similarity. is used for clustering data points into groups, making it easier to understand patterns and relationships in the data. <br/ ><br/ >
+Basic Description: K-Means Clustering is an unsupervised machine learning algorithm used for partitioning data into clusters based on similarity. is used for clustering data points into groups, making it easier to understand patterns and relationships in the data. <br/><br/>
 
 
-Usage: <br/ >
-This can be used when you want to define a set number of clusters (k). It can be more efficient than Hierarchical on large data sets.<br/ ><br/ >
+Usage: <br/>
+This can be used when you want to define a set number of clusters (k). It can be more efficient than Hierarchical on large data sets.<br/><br/>
 
 
 Possible Baseball Applications:
@@ -56,14 +56,14 @@ Usage:
 Possible Use Cases:
 
 ## Logistic Regression
-Class Workbook: <br/ >
+Class Workbook: <br/>
 
-Basic Description: <br/ >
-Logistic regression models the relationship between one or more independent explanatory variables and a dependent binary classification. <br/ ><br/ >
+Basic Description: <br/>
+Logistic regression models the relationship between one or more independent explanatory variables and a dependent binary classification. <br/><br/>
 
 
-Usage: <br/ >
-This model can be used whenever the response variable is a binary, such as 0/1 or yes/no. It can also be used to predict probability. <br/ ><br/ >
+Usage: <br/>
+This model can be used whenever the response variable is a binary, such as 0/1 or yes/no. It can also be used to predict probability. <br/><br/>
 
 
 Possible Baseball Applications:
@@ -77,17 +77,17 @@ Possible Business Applications:
 
 ## Linear Regression
 
-Class Workbook: <br />
-[https://rpubs.com/bscartz/linear-regression](https://rpubs.com/bscartz/linear-regression-toolkit) <br />
-Included: log transform, interaction terms <br /><br />
+Class Workbook: <br/>
+[https://rpubs.com/bscartz/linear-regression](https://rpubs.com/bscartz/linear-regression-toolkit) <br/>
+Included: log transform, interaction terms <br/><br/>
 
 
-Basic Description: <br />
-Linear regression models the relationship between a dependent response variable and one or more independent explanatory variables. It fits a linear equation to the data. <br /><br />
+Basic Description: <br/>
+Linear regression models the relationship between a dependent response variable and one or more independent explanatory variables. It fits a linear equation to the data. <br/><br/>
 
 
-Usage: <br />
-This model can be used whenever observed variables have a linear relationship with the outcome variable. <br /><br />
+Usage: <br/>
+This model can be used whenever observed variables have a linear relationship with the outcome variable. <br/><br/>
 
 
 Possible Baseball Applications: 
