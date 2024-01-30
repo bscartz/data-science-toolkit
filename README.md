@@ -9,9 +9,21 @@ Possible Use Cases:
 
 ## K-Means Clustering
 Class Workbook:
-Basic Description: 
-Usage:
-Possible Use Cases:
+Basic Description: <br/ >
+
+Basic Description: K-Means Clustering is an unsupervised machine learning algorithm used for partitioning data into clusters based on similarity. is used for clustering data points into groups, making it easier to understand patterns and relationships in the data. <br/ ><br/ >
+
+
+Usage: <br/ >
+This can be used when you want to define a set number of clusters (k). It can be more efficient than Hierarchical on large data sets.<br/ ><br/ >
+
+
+Possible Baseball Applications:
+* Categorize different types of pitches based on various metrics
+
+
+Possible Business Applications: 
+* 
 
 ## Hierarchical Clustering
 Class Workbook:
