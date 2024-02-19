@@ -56,7 +56,9 @@ Usage:
 Possible Use Cases:
 
 ## Logistic Regression
-Class Workbook: <br/>
+Class Workbook:<br/>
+https://rpubs.com/bscartz/log-regression<br/>
+Included: predict(), confusion matrix, data partitioning <br/><br/>
 
 Basic Description: <br/>
 Logistic regression models the relationship between one or more independent explanatory variables and a dependent binary classification. <br/><br/>
