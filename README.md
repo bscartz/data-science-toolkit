@@ -50,10 +50,25 @@ Usage:
 Possible Use Cases:
 
 ## LASSO Regression
-Class Workbook:
-Basic Description: 
-Usage:
-Possible Use Cases:
+Class Workbook: <br/>
+https://rpubs.com/bscartz/lasso-regression<br/>
+Included: missing data imputation (mice) <br/><br/>
+
+Basic Description: <br/>
+LASSO (Least Absolute Shrinkage and Selection Operator) Regression is a linear regression method that includes a penalty term to shrink some coefficients to exactly zero. <br/><br/>
+
+
+Usage: <br/>
+This model can be used when there is a very large number of variables, and many could be noise. This prevents overfitting. <br/><br/>
+
+
+Possible Baseball Applications: 
+* Predicting the time that a minor league player will spend in the minors based on a wide variety of possible predictors
+
+
+Possible Business Applications: 
+* Predicting house prices
+* Identifying relevant features in economic forecasting
 
 ## Logistic Regression
 Class Workbook:<br/>
