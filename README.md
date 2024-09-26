@@ -32,19 +32,9 @@ Usage:
 Possible Use Cases:
 
 ## Decision Trees
-Class Workbook:
-Basic Description: 
-Usage:
-Possible Use Cases:
-
-#### Random Forests
-Class Workbook:
-Basic Description: 
-Usage:
-Possible Use Cases:
-
-#### Bagging
-Class Workbook:
+Class Workbook: <br/>
+https://rpubs.com/bscartz/decision-trees<br/>
+Included: boostrapping (imbalanced data)<br/><br/>
 Basic Description: 
 Usage:
 Possible Use Cases:
