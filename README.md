@@ -1,5 +1,5 @@
-# statistics-toolkit
-Summary of several statistical models learned in MSBA-SA
+# data-science-toolkit
+Summary of several data science models learned in MSBA-SA
 
 ## XGBoost
 Class Workbook:
@@ -32,11 +32,19 @@ Usage:
 Possible Use Cases:
 
 ## Decision Trees
-Class Workbook: <br/>
+Class Workbook:<br/>
+
 https://rpubs.com/bscartz/decision-trees<br/>
+
 Included: boostrapping (imbalanced data)<br/><br/>
-Basic Description: 
-Usage:
+
+
+Basic Description: <br/>
+Tree models are learning methods that split datasets based on the value of input features, arriving at stratified predictions based on numerous splits.
+<br/><br/>
+Usage: <br/>
+This model can be used for both classification and regression tasks. It is particularly useful when the data has a mix of numerical and categorical features, and it helps visualize decisions in a straightforward way. It is more easily conveyed than the more complex tree-based models.
+<br/><br/>
 Possible Use Cases:
 
 ## LASSO Regression
