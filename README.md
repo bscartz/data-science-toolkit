@@ -9,7 +9,7 @@ Possible Use Cases:
 
 ## K-Means Clustering
 Class Workbook: <br/>
-Basic Description: <br/><br/>
+https://rpubs.com/bscartz/kmeans-clustering-toolkit<br/><br/>
 
 Basic Description: K-Means Clustering is an unsupervised machine learning algorithm used for partitioning data into clusters based on similarity. is used for clustering data points into groups, making it easier to understand patterns and relationships in the data. <br/><br/>
 
@@ -20,10 +20,11 @@ This can be used when you want to define a set number of clusters (k). It can be
 
 Possible Baseball Applications:
 * Categorize different types of pitches based on various metrics
+* Sort players into like groups
 
 
 Possible Business Applications: 
-* 
+* Compare customers to similar customers based on behavior and/or demographic data
 
 ## Hierarchical Clustering
 Class Workbook:
