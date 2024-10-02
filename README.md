@@ -2,10 +2,16 @@
 Summary of several data science models learned in MSBA-SA
 
 ## XGBoost
-Class Workbook:
-Basic Description: 
-Usage:
-Possible Use Cases:
+Class Workbook:  <br/>
+https://rpubs.com/bscartz/xg-boost-toolkit <br/><br/>
+
+Basic Description: <br/>
+This is the most powerful and intricate tree-based model. It is an iterative process that learns based on the errors of previous iterations to arrive at final predictions. It can handle both classification and regression tasks. <br/><br/>
+
+Usage: <br/>
+This should be used when prioritizing accuracy over conveyability. <br/><br/>
+Possible Use Cases: <br/>
+Projections
 
 ## K-Means Clustering
 Class Workbook: <br/>
